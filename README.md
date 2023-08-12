@@ -1,6 +1,7 @@
 # C++ (starter)
 
 C++ is the first programming language that I have learned.
+My IDE for C++ is Code::Blocks
 
 It's a good language to start studying but first of all you should know something:
 
