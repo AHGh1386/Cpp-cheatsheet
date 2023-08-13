@@ -1,7 +1,8 @@
 # C++ (starter)
 
 C++ is the first programming language that I have learned.
-My IDE for C++ is Code::Blocks
+My IDE for C++ is Code::Blocks but you can use visual studio code as well.
+In this repository I wanna put some simple C++ codes & some simple projects.
 
 It's a good language to start studying but first of all you should know something:
 
