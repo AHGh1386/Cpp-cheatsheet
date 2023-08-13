@@ -20,6 +20,6 @@ In dynamic languages, the types and values are both dynamic, which means the typ
 
 <img src ="https://ecomputernotes.com/images/difference-between-compiler-and-interpreter.png" width="700"/>
 
-Another thing that you should khow is this
+Another thing that you should khow is this👇👇
 
 <img src = "https://maktabkhooneh.org/mag/wp-content/uploads/2020/08/1.jpg "/>
