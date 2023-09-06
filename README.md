@@ -10,3 +10,4 @@ If you want to use Visual studio, you should first download some extensions for 
 In this repository I wanna put some simple C++ codes.
 
 It's a good language to start studying.
+
