@@ -12,4 +12,3 @@ In this repository I wanna put some simple C++ codes.
 It's a good language to start studying.
 
 ### Give star⭐ if it was useful 😉
-
