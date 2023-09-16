@@ -1,4 +1,4 @@
-# C++ (starter)
+# C++
 
 <img src="https://global-prog.com/wp-content/uploads/2019/07/cpp-e1572092855695.jpg.webp"/>
 
